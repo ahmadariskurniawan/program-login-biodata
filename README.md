@@ -8,5 +8,3 @@ Fitur:
 - Dashboard
 - Halaman biodata
 - Logout
-
-Program ini dibuat untuk memenuhi tugas mata kuliah Proyek Perangkat Lunak.
